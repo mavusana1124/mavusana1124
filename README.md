@@ -2,14 +2,12 @@
 # Hello, I'm Motlotlegi Tlex Morake
 <a href="https://linkedin.com/motlotlegi-morake"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Introduction
-Seasoned ICT professional with over a decade of hands-on experience in the field. Passionate about cybersecurity and dedicated to enhancing digital defenses in an ever-evolving threat landscape. Currently honing skills and knowledge through training for CompTIA Security+. Let's collaborate to fortify our digital world. 🔒💻
+## Introduction
+Experienced ICT professional with over a decade of expertise spanning L1, L2, and L3 support in both software and network infrastructure domains. Committed to upholding robust cybersecurity measures in an increasingly complex digital landscape. Currently undergoing rigorous training for CompTIA Security+ certification to bolster proficiency further. Proficient in leveraging Azure and AWS services to architect secure and scalable solutions. Let's collaborate to fortify digital ecosystems and mitigate emerging cyber threats effectively.
 
-Objective
-[Provide Objective]
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Objective
+Committed to leveraging GitHub as a platform to share expertise, collaborate on innovative projects, and contribute to the advancement of technology in a rapidly evolving digital landscape. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Department as a Tier 1 Security Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
